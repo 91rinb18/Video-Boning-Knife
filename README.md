@@ -40,10 +40,11 @@ add `bin` to system PATH
 - **$9.9** - Lifetime license (one-time payment)
 -  trial coming soon
 
-## 📥 Download
+## 📥 BUY
 [Latest Version (v1.0.0)]
 
 ## 📧 Support
+Premium users get priority/assistance; non-paying users have self-service FAQ & readme support.
 - https://github.com/91rinb18/Video-Boning-Knife/issues
 - Right-click your multimedia file - mediaInfo, then select "View - Text", and copy the content therein. 
 https://mediaarea.net/en/MediaInfo/Download/Windows        For example:
