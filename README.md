@@ -22,14 +22,15 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 
 ## 💻 System Requirements
 - 64-bit Windows 7 & above
-- FFmpeg (user must download from https://github.com/BtbN/FFmpeg-Builds/releases  Download and unzip.
+- FFmpeg (user must download from https://github.com/BtbN/FFmpeg-Builds/releases 
+Download and unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpeg\bin)
 ![Main Interface](./screenshots/4-FF.png)
 
 ## 🚀 Quick Start
 1. Open the Control Panel, search Environment Variable
 ![Main Interface](./screenshots/5-EnvironmentVariable.png)
 
-add `bin` to system PATH
+add `d:\ffmpeg\bin` to system PATH
 ![Main Interface](./screenshots/6-path.png)
 
 2. Launch the tool → Drag video/audio/subtitle files
