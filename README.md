@@ -11,8 +11,11 @@ A simple **drag-and-drop GUI** to mux audio, video, and subtitle streams into a 
 - No quality loss, super fast (stream copy)
 
 ## 📸 Screenshots
-![Main Interface](./screenshots/main.png)
-*(Add your screenshot here for better look)*
+![Main Interface](./screenshots/1-main.jpg)
+
+![Main Interface](./screenshots/2-split.jpg)
+
+![Main Interface](./screenshots/3-muxing.jpg)
 
 ## 💻 System Requirements
 - 64-bit Windows 7+
