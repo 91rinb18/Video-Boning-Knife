@@ -2,12 +2,12 @@
 
 [简体中文](./README_CN.md) | **English**
 
-Has been officially renamed: Video Boning Knife
+Has been officially renamed: Video Boning Knife.
 
 Direct copy mode preserves original video and audio quality at blazing speeds! A minimalist drag-and-drop GUI integrates audio, video, and subtitle streams into a single MP4/MKV file without re-encoding (powered by FFmpeg stream copying technology).
 
 ## ✨ Features
-- Lossless audio and video quality at maximum speed (stream copying)
+- Lossless audio and video quality at maximum speed (stream copying).
 - Directly extract audio, subtitles and video. Split. combine and package.
 - The usage is extremely simple - just click the mouse three times.
 - Automatically select the appropriate container.
@@ -44,7 +44,7 @@ add `bin` to system PATH
 [Latest Version (v1.0.0)]
 
 ## 📧 Support
-- Email: your-email@example.com
+- https://github.com/91rinb18/Video-Boning-Knife/issues
 
 **Quick Links:** [FAQ](./FAQ.md) | [Changelog](./CHANGELOG.md)
 
