@@ -19,8 +19,8 @@
 ![Main Interface](./screenshots/3-muxing.jpg)
 
 ## 💻 系统要求
-- 64位Windows 7+
-- FFmpeg（用户自行从 https://github.com/BtbN/FFmpeg-Builds/releases 下载，添加到系统 PATH）
+- 64位Windows 7及以上。
+- FFmpeg（用户自行从 https://github.com/BtbN/FFmpeg-Builds/releases 下载，解压缩
   ![Main Interface](./screenshots/4-FF.png)
 
 
