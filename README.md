@@ -20,9 +20,13 @@ A simple **drag-and-drop GUI** to mux audio, video, and subtitle streams into a 
 ## 💻 System Requirements
 - 64-bit Windows 7+
 - FFmpeg (user must download from https://github.com/BtbN/FFmpeg-Builds/releases and add to PATH)
+![Main Interface](./screenshots/4-FF.png)
 
 ## 🚀 Quick Start
 1. Download FFmpeg and add `bin` to system PATH
+![Main Interface](./screenshots/"5-Environment variable.png")
+![Main Interface](./screenshots/6-path.png)
+
 2. Launch the tool → Drag video/audio/subtitle files
 3. Select tracks → Click **Mux/Export**
 4. Output ready!
