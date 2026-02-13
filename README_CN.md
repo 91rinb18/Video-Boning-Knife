@@ -44,5 +44,9 @@
 
 ## 📧 支持
 - https://github.com/91rinb18/Video-Boning-Knife/issues
+- 请安装免费版mediaInfo补充视频信息：打开mediaInfo，然后“视图—文本”，复制其中内容。
+https://mediaarea.net/en/MediaInfo/Download/Windows
+- 请复制日志区域的报错日志，帮助排错。
+- 请提供安装的ffmpeg版本号。
 
 **快速链接：** [常见问题](./FAQ_CN.md) | [更新日志](./CHANGELOG_CN.md)
