@@ -2,7 +2,7 @@
 
 [简体中文](./CHANGELOG_CN.md) | **English**
 
-## [1.2.18] - 2026-02-14
+## [1.2.18] - 2026-02-13
 **Core keywords: Stability, Localization, Ultimate Polish**
 
 ### Changed
@@ -10,6 +10,7 @@
 
 ### Fixed
 - Script engine enhancement: Fixed escaping errors in complex file paths (Syntax/Escaping fix).
+- Optimized the extraction of naming logic.
 
 ### UX
 - Smart directory management: Prevents path errors.
