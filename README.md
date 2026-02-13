@@ -20,8 +20,8 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 ![Main Interface](./screenshots/3-muxing.jpg)
 
 ## 💻 System Requirements
-- 64-bit Windows 7+
-- FFmpeg (user must download from https://github.com/BtbN/FFmpeg-Builds/releases and add to PATH)
+- 64-bit Windows 7 & above
+- FFmpeg (user must download from https://github.com/BtbN/FFmpeg-Builds/releases  Download and unzip.
 ![Main Interface](./screenshots/4-FF.png)
 
 ## 🚀 Quick Start
