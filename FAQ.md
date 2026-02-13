@@ -62,7 +62,7 @@ A: MKVToolNix = CLI/GUI for pros. **This tool: drag-drop simple, This little too
 A: Yes for pure mux (faster, no extra features bloat). Shutter good for convert; this for lossless mux.
 
 **Q: Is there a trial version available?**  
-A: Yes! 10 successful exports. trial. Each file must not exceed 1GB (1024MB).
+A: trial version software is currently being prepared.10 successful exports. Each file must not exceed 1GB (1024MB).
 
 ## 📧 Need Help?
 Email: your-email@example.com |
