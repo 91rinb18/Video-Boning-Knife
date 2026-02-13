@@ -5,11 +5,14 @@
 ## 🏠 General / 基础问题
 
 **Q: Is it free?
+
 A: No. It's cheaper than lunch.?**  
 
 
+
 **Q: Do I need to install Python or FFmpeg?**  
-A: No Python needed (standalone exe). **FFmpeg required** - download from https://github.com/BtbN/FFmpeg-Builds/releases
+A: No Python needed (standalone exe). **FFmpeg required** - download from https://github.com/BtbN/FFmpeg-Builds/releases.
+
 
 **Q: Windows versions supported?**  
 A: 64-bit Windows 7-WIN 11 . Not tested on Win7/8.
