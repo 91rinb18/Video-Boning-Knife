@@ -8,8 +8,10 @@
 **Q: 这是免费的吗?**
 A: 不，比一顿午饭便宜。
 
+
 **Q: 我要安装python还是ffmpeg？**  
-A: 用不着Python.但你要下载并且解压缩FFmpeg  https://github.com/BtbN/FFmpeg-Builds/releases
+A: 用不着Python。但你要下载并且解压缩FFmpeg  https://github.com/BtbN/FFmpeg-Builds/releases
+
 
 **Q: Windows 版本支持呢?**  
 A: 64-bit Windows 7-WIN 11 . WIN7-8没测试过，应该没问题，
