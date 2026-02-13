@@ -1,6 +1,6 @@
 # FAQ - Frequently Asked Questions
 
-[简体中文](./FAQ_CN.md) | **English**
+[english](./FAQ.md) | **简体中文**
 
 ## 🏠 General / 基础问题
 
