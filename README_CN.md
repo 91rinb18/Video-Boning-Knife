@@ -26,7 +26,7 @@
 
 ## 🚀 快速开始
 1. 下载 FFmpeg，将 `bin` 加到系统 PATH
-![Main Interface](./screenshots/"5-Environment variable.png")
+![Main Interface](./screenshots/5-EnvironmentVariable.png)
 
 ![Main Interface](./screenshots/6-path.png)
 
