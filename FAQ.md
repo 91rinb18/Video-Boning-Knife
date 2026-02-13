@@ -42,7 +42,7 @@ A: MKV containers add metadata overhead, but MKV offers the best compatibility.
 
 **Q: Subtitle not showing?**  
 
-A: Select SRT/ASS as subtitle track. MKV supports external subs; MP4 needs burn-in (re-encode).
+A: Select SRT/ASS as subtitle track. MKV supports external subs; MP4 needs burn-in (re-encode).BTW,The graphic subtitles for Blu-ray (PGS) cannot be included in files with MP4 format. The copy function of this tool cannot make it a valid SRT file for the text.
 
 
 **Q: What's the difference between "soft subtitles" and "burned-in subtitles"? Why doesn't your software offer burning?**
