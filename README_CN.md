@@ -25,9 +25,10 @@
 
 
 ## 🚀 快速开始
-1. 下载 FFmpeg，将 `bin` 加到系统 PATH
+1. 打开控制面板，搜索Environment Variable
 ![Main Interface](./screenshots/5-EnvironmentVariable.png)
 
+将 `bin` 加到系统 PATH
 ![Main Interface](./screenshots/6-path.png)
 
 2. 启动工具 → 拖入视频/音频/字幕文件
