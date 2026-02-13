@@ -9,7 +9,6 @@
 A: No. It's cheaper than lunch.?**  
 
 
-
 **Q: Do I need to install Python or FFmpeg?**  
 A: No Python needed (standalone exe). **FFmpeg required** - download from https://github.com/BtbN/FFmpeg-Builds/releases.
 
@@ -28,6 +27,8 @@ A: **Mux = combine audio/video/subtitle tracks into one file without quality los
 
 The software's parameter copying feature operates at lightning speed without compromising audio or video quality. However, this efficiency inherently limits its rapid splitting function from achieving perfect keyframe alignment. Achieving flawless splits requires re-encoding.
 
+
+
 **Q: Error: "Could not find FFmpeg"**  
 
 A: extract FFMPEG, add bin folder to system PATH (control panel search  Environment Variable),In the system variables, locate PATH and add your path, such as d:\ffmpeg\bin, to it.
@@ -38,18 +39,22 @@ A: extract FFMPEG, add bin folder to system PATH (control panel search  Environm
 
 A: MKV containers add metadata overhead, but MKV offers the best compatibility.
 
+
 **Q: Subtitle not showing?**  
 
 A: Select SRT/ASS as subtitle track. MKV supports external subs; MP4 needs burn-in (re-encode).
+
 
 **Q: What's the difference between "soft subtitles" and "burned-in subtitles"? Why doesn't your software offer burning?**
 
 A: Soft subtitles attach the subtitle file to the video file. Burning subtitles renders them directly into the video frame (hard-coded subtitles).
 Burning requires re-encoding the video, which conflicts with the "fast + lossless" goal of the -c copy option.
 
+
 **Q: Why does adding SRT to MP4 fail?**
 
 A: SRT (SubRip) is not an officially supported subtitle format for MP4. It typically needs conversion to mov_text to function as a subtitle track within MP4.
+
 
 **Q: Why does Windows/antivirus flag the exe as malicious?**
 
@@ -61,9 +66,11 @@ A: Numerous users have reported in Python's official issues that onefile/new ver
 
 A: Open the software's "About" section to view the serial number.
 
+
 **Q: Refund policy?**  
 
 A: 7-day money-back if not working on your PC.
+
 
 ## ⚔️ Comparison / 与其他工具对比
 
@@ -71,9 +78,11 @@ A: 7-day money-back if not working on your PC.
 
 A: MKVToolNix = CLI/GUI for pros. **This tool: drag-drop simple, This little tool is extremely simple to operate and the fastest. Windows-optimized**. Saves hours vs command line.
 
+
 **Q: Better than Shutter Encoder?**  
 
 A: Yes for pure mux (faster, no extra features bloat). Shutter good for convert; this for lossless mux.
+
 
 **Q: Is there a trial version available?**  
 
