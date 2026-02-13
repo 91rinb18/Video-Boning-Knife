@@ -25,7 +25,7 @@ A: **Mux = combine audio/video/subtitle tracks into one file without quality los
 The software's parameter copying feature operates at lightning speed without compromising audio or video quality. However, this efficiency inherently limits its rapid splitting function from achieving perfect keyframe alignment. Achieving flawless splits requires re-encoding.
 
 **Q: Error: "Could not find FFmpeg"**  
-A: extract FFMPEG, add bin folder to system PATH (control panel search  Environment Variable).
+A: extract FFMPEG, add bin folder to system PATH (control panel search  Environment Variable),In the system variables, locate PATH and add your path, such as d:\ffmpeg\bin, to it.
 ![Main Interface](./screenshots/6-path.png)
 
 
