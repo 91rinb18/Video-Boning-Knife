@@ -20,7 +20,7 @@
 
 ## 💻 系统要求
 - Windows 10+（64位）
-- FFmpeg（用户自行从 [ffmpeg.org](https://ffmpeg.org/download.html) 下载，添加到系统 PATH）
+- FFmpeg（用户自行从 https://github.com/BtbN/FFmpeg-Builds/releases 下载，添加到系统 PATH）
   ![Main Interface](./screenshots/4-FF.png)
 
 
