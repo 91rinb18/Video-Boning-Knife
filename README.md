@@ -25,8 +25,10 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 ![Main Interface](./screenshots/4-FF.png)
 
 ## 🚀 Quick Start
-1. Download FFmpeg and add `bin` to system PATH
-![Main Interface](./screenshots/"5-Environment variable.png")
+1. Open the Control Panel, search Environment Variable
+![Main Interface](./screenshots/5-EnvironmentVariable.png)
+
+add `bin` to system PATH
 ![Main Interface](./screenshots/6-path.png)
 
 2. Launch the tool → Drag video/audio/subtitle files
