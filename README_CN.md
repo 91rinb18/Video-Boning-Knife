@@ -15,12 +15,14 @@
 ![Main Interface](./screenshots/1-main.jpg)
 
 ![Main Interface](./screenshots/2-split.jpg)
+如果分一段，输入截止时间，然后点分割即可。分割多段就在上面点增加片段。
 
 ![Main Interface](./screenshots/3-muxing.jpg)
 
 ## 💻 系统要求
 - 64位Windows 7及以上。
-- FFmpeg（用户自行从 https://github.com/BtbN/FFmpeg-Builds/releases 下载，解压缩
+- 免费的FFmpeg（先从 https://github.com/BtbN/FFmpeg-Builds/releases 下载
+解压缩到比如d:\ffmpeg，WINDOWS需要的是d:\ffmpeg\bin
   ![Main Interface](./screenshots/4-FF.png)
 
 
@@ -28,7 +30,7 @@
 1. 打开控制面板，搜索Environment Variable
 ![Main Interface](./screenshots/5-EnvironmentVariable.png)
 
-将 `bin` 加到系统 PATH
+将 `d:\ffmpeg\bin` 加到系统 PATH
 ![Main Interface](./screenshots/6-path.png)
 
 2. 启动工具 → 拖入视频/音频/字幕文件
