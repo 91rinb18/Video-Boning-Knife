@@ -45,6 +45,12 @@ add `bin` to system PATH
 
 ## 📧 Support
 - https://github.com/91rinb18/Video-Boning-Knife/issues
+- Right-click your multimedia file - mediaInfo, then select "View - Text", and copy the content therein. 
+https://mediaarea.net/en/MediaInfo/Download/Windows        For example:
+https://mediaarea.net/download/binary/mediainfo-gui/26.01/MediaInfo_GUI_26.01_Windows.exe
+
+- Please copy the error log from the log area to assist in troubleshooting.
+- Please provide the version number of the installed ffmpeg.
 
 **Quick Links:** [FAQ](./FAQ.md) | [Changelog](./CHANGELOG.md)
 
