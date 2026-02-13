@@ -43,6 +43,6 @@
 [最新版本 (v1.0.0)]
 
 ## 📧 支持
-- 邮箱：your-email@example.com
+- https://github.com/91rinb18/Video-Boning-Knife/issues
 
 **快速链接：** [常见问题](./FAQ_CN.md) | [更新日志](./CHANGELOG_CN.md)
