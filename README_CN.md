@@ -27,7 +27,9 @@
 ## 🚀 快速开始
 1. 下载 FFmpeg，将 `bin` 加到系统 PATH
 ![Main Interface](./screenshots/"5-Environment variable.png")
+
 ![Main Interface](./screenshots/6-path.png)
+
 2. 启动工具 → 拖入视频/音频/字幕文件
 3. 选择轨道 → 点击 **封装/导出**
 4. 输出完成！
