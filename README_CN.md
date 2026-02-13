@@ -20,7 +20,7 @@
 ![Main Interface](./screenshots/3-muxing.jpg)
 
 ## 💻 系统要求
-- 64位Windows 7及以上。
+- 64位Windows 10及以上。 (Win8.1也许可以，官方已不支持)。
 - 免费的FFmpeg（先从 https://github.com/BtbN/FFmpeg-Builds/releases 下载
 解压缩到比如d:\ffmpeg，WINDOWS需要的是d:\ffmpeg\bin
   ![Main Interface](./screenshots/4-FF.png)
