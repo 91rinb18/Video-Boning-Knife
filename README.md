@@ -1,6 +1,7 @@
 # Video-Boning-Knife
 
 [简体中文](./README_CN.md) | **English**
+Has been officially renamed: Video Boning Knife
 
 A simple **drag-and-drop GUI** to mux audio, video, and subtitle streams into a single **MP4/MKV** file **without re-encoding** (powered by FFmpeg stream copy).
 
@@ -36,7 +37,7 @@ A simple **drag-and-drop GUI** to mux audio, video, and subtitle streams into a 
 -  trial coming soon
 
 ## 📥 Download
-[Latest Version (v1.0.0)](/releases/latest)
+[Latest Version (v1.0.0)]
 
 ## 📧 Support
 - Email: your-email@example.com
