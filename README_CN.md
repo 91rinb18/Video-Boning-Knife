@@ -39,10 +39,11 @@
 - **$9.9** - 终身授权（一次性付费）
 - 试用版正在准备
 
-## 📥 下载
+## 📥 购买
 [最新版本 (v1.0.0)]
 
 ## 📧 支持
+  付费用户优先/保障响应；未付费用户先自助readme、FAQ支持。
 - https://github.com/91rinb18/Video-Boning-Knife/issues
 - 请安装免费版mediaInfo补充视频信息：右击你的文件——mediaInfo，然后“视图—文本”，复制其中内容。
 https://mediaarea.net/en/MediaInfo/Download/Windows
