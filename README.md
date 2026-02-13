@@ -44,7 +44,7 @@ add `bin` to system PATH
 [Latest Version (v1.0.0)]
 
 ## 📧 Support
-Premium users get priority/assistance; non-paying users have self-service FAQ & readme support.
+Priority/guaranteed response for paying users; self-service FAQ and readme support first for non-paying users.
 - https://github.com/91rinb18/Video-Boning-Knife/issues
 - Right-click your multimedia file - mediaInfo, then select "View - Text", and copy the content therein. 
 https://mediaarea.net/en/MediaInfo/Download/Windows        For example:
