@@ -22,8 +22,8 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 
 ## 💻 System Requirements
 - 64-bit Windows 7 & above
-- FFmpeg (user must download from https://github.com/BtbN/FFmpeg-Builds/releases 
-Download and unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpeg\bin)
+- Free FFmpeg (First download from https://github.com/BtbN/FFmpeg-Builds/releases (About several dozen megabytes)
+Unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpeg\bin)
 ![Main Interface](./screenshots/4-FF.png)
 
 ## 🚀 Quick Start
