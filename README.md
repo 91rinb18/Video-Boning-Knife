@@ -1,15 +1,16 @@
 # Video-Boning-Knife
 
 [简体中文](./README_CN.md) | **English**
+
 Has been officially renamed: Video Boning Knife
 
-A simple **drag-and-drop GUI** to mux audio, video, and subtitle streams into a single **MP4/MKV** file **without re-encoding** (powered by FFmpeg stream copy).
+Direct copy mode preserves original video and audio quality at blazing speeds! A minimalist drag-and-drop GUI integrates audio, video, and subtitle streams into a single MP4/MKV file without re-encoding (powered by FFmpeg stream copying technology).
 
 ## ✨ Features
+- Lossless audio and video quality at maximum speed (stream copying)
 - Drag & drop multiple files (video/audio/subtitle)
 - Select specific streams/tracks
 - Support MP4, MKV containers
-- No quality loss, super fast (stream copy)
 
 ## 📸 Screenshots
 ![Main Interface](./screenshots/1-main.jpg)
