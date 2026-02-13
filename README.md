@@ -8,9 +8,10 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 
 ## ✨ Features
 - Lossless audio and video quality at maximum speed (stream copying)
-- Drag & drop multiple files (video/audio/subtitle)
-- Select specific streams/tracks
-- Support MP4, MKV containers
+- Directly extract audio, subtitles and video. Split. combine and package.
+- The usage is extremely simple - just click the mouse three times.
+- Automatically select the appropriate container.
+
 
 ## 📸 Screenshots
 ![Main Interface](./screenshots/1-main.jpg)
