@@ -8,8 +8,8 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 
 ## ✨ Features
 - Lossless audio and video quality at maximum speed (stream copying).
-- Directly extract audio, subtitles and video. Split. combine and package.
-- The usage is extremely simple - just click the mouse three times.
+- Directly extract audio, subtitles and video. Split. combine and package.(not clip concatenation)
+- The usage is extremely simple - just click the mouse 3 times.
 - Automatically select the appropriate container.
 
 
