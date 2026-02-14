@@ -10,7 +10,7 @@
 
 ### Fixed
 - Script engine enhancement: Fixed escaping errors in complex file paths (Syntax/Escaping fix).
-- Optimized the extraction of naming logic.
+- Optimized the extraction of track logic.
 - Fixed naming errors. Compatible with global languages, optimized naming cleansing logic.
 
 
