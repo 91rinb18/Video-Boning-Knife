@@ -18,6 +18,7 @@
 如果分一段，输入截止时间，然后点分割即可。分割多段就在上面点增加片段。
 
 ![Main Interface](./screenshots/3-muxing.jpg)
+分别导入各种轨道，然后点击合成。
 
 ## 💻 系统要求
 - 64位Windows 10及以上。 (Win8.1也许可以，官方已不支持)。
@@ -27,15 +28,14 @@
 
 
 ## 🚀 快速开始
-1. 打开控制面板，搜索Environment Variable
-![Main Interface](./screenshots/5-EnvironmentVariable.png)
+1. 本软件会自行搜索你的路径里面是否有FFMPEG。如果您早已添加了FF的路径则可以直接使用。只要输入框里填的是 ffmpeg，Windows就会自动去系统环境变量 (PATH) 里寻找这个程序。输入框不能留空。
+![Main Interface](./screenshots/ff-1.jpg)
 
-将 `d:\ffmpeg\bin` 加到系统 PATH
-![Main Interface](./screenshots/6-path.png)
+2. 如果您没有配置FF的路径，它可以帮你定位执行文件：先解压缩下载的FF到比如d:\ffmpeg。在软件里点“浏览”，导航到你的FF目录，（举例）：d:\ffmpeg\bin （关键就是这个bin目录）。选择ffmpeg.exe，点“打开”就行了。
+![Main Interface](./screenshots/ff-2.jpg)
 
-2. 启动工具 → 拖入视频/音频/字幕文件
-3. 选择轨道 → 点击 **封装/导出**
-4. 输出完成！
+3. 如果您没有提前指定输出目录，则在本软件的目录下自动生成output目录，您处理的文件都在那里。
+
 
 ## 💰 定价
 - **$9.9** - 终身授权（一次性付费）
