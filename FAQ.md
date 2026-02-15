@@ -14,7 +14,7 @@ A: No Python needed (standalone exe). **FFmpeg required** - download from https:
 
 
 **Q: Windows versions supported?**  
-A: 64-bit Windows 7-WIN 11 . Not tested on Win7/8.
+A: 64-bit Windows 10-WIN 11 . Not tested on Win8.1.
 
 ## 🔧 Technical / 技术问题
 
@@ -31,8 +31,8 @@ The software's parameter copying feature operates at lightning speed without com
 
 **Q: Error: "Could not find FFmpeg"**  
 
-A: extract FFMPEG, add bin folder to system PATH (control panel search  Environment Variable),In the system variables, locate PATH and add your path, such as d:\ffmpeg\bin, to it.
-![Main Interface](./screenshots/6-path.png)
+A: extract FFMPEG, Click on "Browse" to navigate to the FF directory you have extracted, locate bin\ffmpeg.exe, and simply click to open it.
+![Main Interface](./screenshots/FF-2.JPG)
 
 
 **Q: MKV output larger than input?**  
