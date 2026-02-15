@@ -3,6 +3,7 @@
 [简体中文](./README_CN.md) | **English**
 
 Has been officially renamed: Video Boning Knife.
+![Main Interface](./screenshots/lossless.png)
 
 Direct copy mode preserves original video and audio quality at blazing speeds! A minimalist drag-and-drop GUI integrates audio, video, and subtitle streams into a single MP4/MKV file without re-encoding (powered by FFmpeg stream copying technology).
 
