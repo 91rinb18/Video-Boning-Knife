@@ -29,10 +29,10 @@
 
 ## 🚀 快速开始
 1. 本软件会自行搜索你的路径里面是否有FFMPEG。如果您早已添加了FF的路径则可以直接使用。只要输入框里填的是 ffmpeg，Windows就会自动去系统环境变量 (PATH) 里寻找这个程序。输入框不能留空。
-![Main Interface](./screenshots/ff-1.jpg)
+![Main Interface](./screenshots/FF-1.jpg)
 
 2. 如果您没有配置FF的路径，它可以帮你定位执行文件：先解压缩下载的FF到比如d:\ffmpeg。在软件里点“浏览”，导航到你的FF目录，（举例）：d:\ffmpeg\bin （关键就是这个bin目录）。选择ffmpeg.exe，点“打开”就行了。
-![Main Interface](./screenshots/ff-2.jpg)
+![Main Interface](./screenshots/FF-2.jpg)
 
 3. 如果您没有提前指定输出目录，则在本软件的目录下自动生成output目录，您处理的文件都在那里。
 
