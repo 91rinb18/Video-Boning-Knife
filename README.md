@@ -19,6 +19,7 @@ Direct copy mode preserves original video and audio quality at blazing speeds! A
 ![Main Interface](./screenshots/2-split.jpg)
 
 ![Main Interface](./screenshots/3-muxing.jpg)
+Import each type of track separately, and then click "mux".
 
 ## 💻 System Requirements
 - 64-bit WIN10+ (Win8.1: may work but not officially supported)
