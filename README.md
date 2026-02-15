@@ -43,7 +43,7 @@ Unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpe
 -  trial coming soon
 
 ## 📥 BUY
-[Latest Version (v1.0.0)]
+[[Latest Version ](https://fitzcaraldo.gumroad.com/l/hhnpu)(v1.2.18)]
 
 ## 📧 Support
 Priority/guaranteed response for paying users; self-service FAQ and readme support first for non-paying users.
