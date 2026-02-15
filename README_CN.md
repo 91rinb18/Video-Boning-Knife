@@ -43,7 +43,7 @@
 - 试用版正在准备
 
 ## 📥 购买
-[最新版本 (v1.0.0)]
+[最新版本https://fitzcaraldo.gumroad.com/l/hhnpu (v1.2.18)]
 
 ## 📧 支持
   付费用户优先/保障响应；未付费用户先自助readme、FAQ支持。
