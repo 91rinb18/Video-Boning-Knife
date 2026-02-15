@@ -32,7 +32,7 @@ The software's parameter copying feature operates at lightning speed without com
 **Q: Error: "Could not find FFmpeg"**  
 
 A: extract FFMPEG, Click on "Browse" to navigate to the FF directory you have extracted, locate bin\ffmpeg.exe, and simply click to open it.
-![Main Interface](./screenshots/FF-2.jpg)
+![Main Interface](./screenshots/FddsF-2.jpg)
 
 
 **Q: MKV output larger than input?**  
