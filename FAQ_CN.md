@@ -19,7 +19,7 @@ A: 用不着Python。但你要下载并且解压缩FFmpeg  https://github.com/Bt
 
 **Q: Windows 版本支持呢?**  
 
-A: 64-bit Windows 10-WIN 11 . WIN8.1没测试过，官方已不支持。
+A: 64-bit Win 10-11支持。 WIN8.1没测试过，官方已不支持。
 
 
 ## 🔧 Technical / 技术问题
