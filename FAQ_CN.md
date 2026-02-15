@@ -19,7 +19,7 @@ A: 用不着Python。但你要下载并且解压缩FFmpeg  https://github.com/Bt
 
 **Q: Windows 版本支持呢?**  
 
-A: 64-bit Windows 7-WIN 11 . WIN7-8没测试过，应该没问题。
+A: 64-bit Windows 10-WIN 11 . WIN8.1没测试过，官方已不支持。
 
 
 ## 🔧 Technical / 技术问题
@@ -36,8 +36,8 @@ A: 64-bit Windows 7-WIN 11 . WIN7-8没测试过，应该没问题。
 
 **Q: 错误：找不到FFmpeg？**  
 
-A: 解压缩FF之后，控制面板搜索Environment Variable，在系统变量中，找到PATH，添加你的比如d:\ffmpeg\bin到路径中。
-![Main Interface](./screenshots/6-path.png)
+A: 解压缩FF之后，点“浏览”导航到你解压缩的FF目录，找到bin\ffmpeg.exe，点击打开即可。
+![Main Interface](./screenshots/FF-2.jpg)
 
 
 
