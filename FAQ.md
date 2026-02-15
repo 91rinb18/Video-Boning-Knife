@@ -69,7 +69,7 @@ A: Open the software's "About" section to view the serial number.
 
 **Q: Refund policy?**  
 
-A: 7-day money-back if not working on your PC.
+A: If you are still unable to use it properly after purchasing for 7 days (from the order date), you can enjoy the return and exchange service.
 
 
 ## ⚔️ Comparison / 与其他工具对比
