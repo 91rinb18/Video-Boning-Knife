@@ -39,7 +39,7 @@ Unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpe
 
 
 ## 💰 Pricing
-- **$9.9** - Lifetime license (one-time payment)
+- **$7.99 ** - Lifetime license (one-time payment)
 -  trial coming soon
 
 ## 📥 BUY
