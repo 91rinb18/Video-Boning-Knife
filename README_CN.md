@@ -44,6 +44,7 @@
 
 ## 📥 购买
 [最新版本https://fitzcaraldo.gumroad.com/l/hhnpu (v1.2.18)]
+
 [教程演示  https://youtu.be/4ndPUh9YJ4I ]
 
 ## 📧 支持
