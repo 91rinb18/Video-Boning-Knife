@@ -35,6 +35,8 @@ Unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpe
 2. If you haven't configured the path for FF, it can help you locate the executable file: First, decompress the downloaded FF to, for example, d:\ffmpeg. In the software, click "Browse", navigate to your FF directory (for example): d:\ffmpeg\bin (the key is this bin directory). Select ffmpeg.exe and click "Open" to finish.
 ![Main Interface](./screenshots/FF-2.jpg)
 
+Of course, it's best to configure the system variables for FF yourself. The software comes with built-in tutorials. It's not much more troublesome than locating the ff.exe file.
+
 3. If you did not specify the output directory in advance, the software will automatically create an "output" directory in its own directory, and all the files you processed will be located there.
 
 
