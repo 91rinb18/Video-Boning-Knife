@@ -41,7 +41,7 @@ Of course, it's best to configure the system variables for FF yourself. The soft
 
 
 ## 💰 Pricing
-- **$7.99 ** - Lifetime license (one-time payment)
+- **$9.9 ** - Lifetime license (one-time payment)
 -  trial coming soon
 
 ## 📥 BUY
