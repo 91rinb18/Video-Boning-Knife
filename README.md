@@ -44,6 +44,7 @@ Unzip to For example, decompress to d:\ffmpeg (What Windows requires is d:\ffmpe
 
 ## 📥 BUY
 [https://fitzcaraldo.gumroad.com/l/hhnpu  (v1.2.18)]
+[Tutorial  https://youtu.be/4ndPUh9YJ4I ]
 
 ## 📧 Support
 Priority/guaranteed response for paying users; self-service FAQ and readme support first for non-paying users.
