@@ -42,7 +42,7 @@ Of course, it's best to configure the system variables for FF yourself. The soft
 
 ## 💰 Pricing
 - **$9.9 ** - Lifetime license (one-time payment)
--  trial coming soon
+-  trial: Only files below 2G and with a successful export count of 15 times.
 
 ## 📥 BUY
 [https://fitzcaraldo.gumroad.com/l/hhnpu  (v1.2.18)]
